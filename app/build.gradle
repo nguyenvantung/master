@@ -8,7 +8,7 @@ android {
     buildToolsVersion "29.0.2"
 
     defaultConfig {
-        applicationId "com.casino.ku.app"
+        applicationId "com.casino.ku.bet777"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
